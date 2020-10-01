@@ -6,7 +6,7 @@ The simplest page-replacement algorithm is a FIFO algorithm. The first-in, first
 # Inputs required – 
   1. Input the no. of pages. 
   2. Input size of frames. 
-  3. Input values of page values.
+  3. Input values of page value.
 
 
 # Procedure –
